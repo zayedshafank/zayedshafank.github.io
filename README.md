@@ -35,10 +35,3 @@ e mail me - zayed.sk9gmail.com
 <img src="/image1 (2).JPG" width="350"/>
 
 
-{ 
-  background: url(https://www.google.co.in/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=0ahUKEwj1p6Smhb7VAhWGr48KHUHGCz0QjRwIBw&url=https%3A%2F%2Fwww.planwallpaper.com%2Fbackground&psig=AFQjCNHwSTgwT_wDg6FZuER3M7ql3MhjeQ&ust=1501951980626026) no-repeat center center fixed; 
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-}
