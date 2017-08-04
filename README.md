@@ -22,4 +22,6 @@ e mail me - zayed.sk9gmail.com
 
 
 # DAY2
-<img src="/IMG-20170804-WA0051[1].jpg" width="350"/>
+
+
+<img src="/image1 - Copy.JPG" width="350"/>
