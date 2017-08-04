@@ -5,6 +5,9 @@
 I am ZAYED SHAFAN K, btech civil engineering student MESCE
 intrested in fabrication and solving puzzils. https://youtu.be/8dYM2rlqkW0
 
+<video src="How to solve cube by ZAYEDSHAFAN.K.mp4" width="320" height="200" controls preload></video>
+
+
 
   
   
