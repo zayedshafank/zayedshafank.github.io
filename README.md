@@ -1,6 +1,6 @@
 ## ZAYED SHAFAN KALAPPADAN 
 # WHO AM I 
-I am ZAYED SHAFAN K btech civil engineering student MESCE
+I am ZAYED SHAFAN K, btech civil engineering student MESCE
 
 
 # CONTACT ME 
