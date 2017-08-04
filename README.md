@@ -13,4 +13,5 @@ e mail me - zayed.sk9gmail.com
 
 
 <img width="200" alt="portfolio_view" src="https://"IMG-20170804-WA0051[1].jpg">
-                                                                               
+<img src=http://(IMG-20170804-WA0051[1].jpg)>
+
