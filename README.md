@@ -28,15 +28,20 @@ e mail me - zayed.sk9gmail.com
 # MESCE FAB Training
 
 # DAY1
-> Inroduction of fab lab
-# .
+
+
+Inroduction of fab lab
+
+
+
 <img src="/IMG-20170804-WA0051[1].jpg" width="350"/>
 
 
 
 # DAY2
-# .
-> Wide information about 3d printer
+
+
+Wide information about 3d printer
 and teach how to use it.
 
 
