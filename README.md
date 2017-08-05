@@ -1,5 +1,8 @@
 
-  ##                                                   ZAYED SHAFAN KALAPPADAN 
+## ZAYED SHAFAN KALAPPADAN 
+
+
+
 # WHO AM I 
 
 I am ZAYED SHAFAN K, btech civil engineering student MESCE
@@ -18,7 +21,6 @@ e mail me - zayed.sk9gmail.com
 
 
 
-<img src=https://github.com/zayedshafank/zayedshafank.github.io/blob/master/IMG-20170804-WA0051%5B1%5D.jpg>
 
 # MESCE FAB Training
 
