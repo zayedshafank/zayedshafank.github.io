@@ -1,9 +1,9 @@
+
 <img src="/17264959_1296489807103017_5598507760662366298_n.jpg" width="350"/>
 
 
 
 ## ZAYED SHAFAN KALAPPADAN       
-
 
 
 # WHO AM I 
@@ -28,11 +28,18 @@ e mail me - zayed.sk9gmail.com
 # MESCE FAB Training
 
 # DAY1
+> Inroduction of fab lab
+# .
 <img src="/IMG-20170804-WA0051[1].jpg" width="350"/>
 
 
 
 # DAY2
+# .
+> Wide information about 3d printer
+and teach how to use it.
+
+
 3d printer
 
 
