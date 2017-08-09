@@ -64,7 +64,7 @@ and teach how to use it.
   
   
   
-We designd and printed 3d small sample object.
+We designed and printed 3d small sample object.
 
 <video src="Video.MOV" width="320" height="200" controls preload></video>
 
