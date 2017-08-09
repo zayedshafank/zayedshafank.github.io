@@ -58,7 +58,12 @@ and teach how to use it.
 
   <div class="fb-like" data-send="false" data-width="450" data-show-faces="true"></div>
   
+  
+  
   # DAY 3
+  
+  
+  
 We designd and printed 3d small sample object.
 
 <video src="Video.MOV" width="320" height="200" controls preload></video>
