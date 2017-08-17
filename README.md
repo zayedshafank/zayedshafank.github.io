@@ -80,3 +80,14 @@ We designed and printed 3d small sample object.
 <img src="/IMG_2563.JPG" width="350"/>
 
 <img src="/IMG_2568.JPG" width="350"/>
+
+# DAY 4
+
+<img src="/image1.JPG" width="350"/>
+<img src="/image2.JPG" width="350"/>
+<img src="/image3.JPG" width="350"/>
+<img src="/image4.JPG" width="350"/>
+<img src="/image5.JPG" width="350"/>
+<img src="/image6-1.JPG" width="350"/>
+<img src="image6.JPG" width="350"/>
+<img src="/image7.JPG" width="350"/>
