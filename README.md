@@ -178,7 +178,7 @@ Once the printing begins never walk away from the machine while it is cutting yo
 
 # VINYL CUTTING
 
-<img src="/image2.JPG" width="350"/>
+<img src="/rolland.jpg" width="350"/>
 
 
 
