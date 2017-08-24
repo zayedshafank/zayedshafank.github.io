@@ -1,6 +1,6 @@
 
 <img src="/myphoto.JPG" width="350"/>
-[About me](About-me-)
+
 <img src="/suit-up-wallpaper.jpg" width="25"/>  [ABOUT ME](https://github.com/zayedshafank/zayedshafank.github.io/blob/master/ABOUT%20ME)
 
 
