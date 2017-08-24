@@ -319,6 +319,11 @@ model or the machine while printing.
 
 # CNC/PCB CUTTING
 
+Open or Import the vector design
+Select the regions to VCarve or machine
+Specify the tool details and calculate tool paths
+Preview the job in any material
+Save the CNC code (save the tool paths)
 
 <img src="/image5.JPG" width="350"/>
 
@@ -330,6 +335,21 @@ model or the machine while printing.
 
 
 <img src="/image7.JPG" width="350"/>
+
+
+# DAY 7
+# MOULDING
+
+<img src="/moulding1.jpg" width="350"/>
+<img src="/mould+.JPG" width="350"/>
+
+
+# SCREEN PRINTING
+<img src="/1.JPG" width="350"/>
+<img src="/2.JPG" width="350"/>
+<img src="/3.JPG" width="350"/>
+
+
 
 
 [Link](More images)
