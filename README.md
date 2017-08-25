@@ -175,6 +175,12 @@ Once the printing begins never walk away from the machine while it is cutting yo
 
 
 
+# MY ASSIGNMENT
+
+
+<img src="/LASERRRR.JPG" width="350"/>
+
+
 
 
 # VINYL CUTTING
@@ -255,14 +261,14 @@ There is a groove on the front of the machine. Use a razor knife in this groove 
 
 
 <img src="/image4.JPG" width="350"/>
-
+<img src="/image4.JPG" width="350"/>
 
 # DAY 5
 
 # 3D PRINTER
 
 
-
+3d1.JPG
 <img src="/FullSizeRender (2).jpg" width="350"/>
 
 
@@ -309,9 +315,13 @@ model or the machine while printing.
 6. Detach the printed model from the glass-plate.
 7. Clean the printed model from the supports, excesses of the material, etc.
 
+# MY ASSIGNMENT
 
 
+<img src="/3d1.JPG" width="350"/>
 
+
+<img src="/3d2.JPG" width="350"/>
 
 
 # DAY 6
