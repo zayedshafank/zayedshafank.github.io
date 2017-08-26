@@ -3,7 +3,7 @@
 
 <img src="/suit-up-wallpaper.jpg" width="25"/>  [ABOUT ME](https://github.com/zayedshafank/zayedshafank.github.io/blob/master/ABOUT%20ME)
 
-[ZAYED](.gitignore)
+[ZAYED](ABOUT-ME/.gitignore/.gitignore)
 
 ## ZAYED SHAFAN KALAPPADAN       
 
