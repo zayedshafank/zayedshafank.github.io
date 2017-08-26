@@ -262,7 +262,11 @@ There is a groove on the front of the machine. Use a razor knife in this groove 
 
 
 <img src="/image4.JPG" width="350"/>
-<img src="/image4.JPG" width="350"/>
+
+
+# MY ASSIGNMENT
+
+<img src="/VINYL00.jpg" width="350"/>
 
 # DAY 5
 
@@ -347,7 +351,7 @@ Save the CNC code (save the tool paths)
 
 <img src="/image7.JPG" width="350"/>
 
-
+<img src="/Z33.JPG" width="350"/>
 # DAY 7
 # MOULDING
 
